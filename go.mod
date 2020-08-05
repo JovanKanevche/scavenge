@@ -6,7 +6,7 @@ require (
 	github.com/btcsuite/btcd v0.0.0-20190807005414-4063feeff79a // indirect
 	github.com/coreos/go-etcd v2.0.0+incompatible // indirect
 	github.com/cosmos/cosmos-sdk v0.38.4
-	github.com/cosmos/sdk-tutorials/scavenge v0.0.0-20200804141730-3b0c6e370e39
+	github.com/JovanKanevche/scavenge v0.0.0-20200804141730-3b0c6e370e39
 	github.com/cpuguy83/go-md2man v1.0.10 // indirect
 	github.com/gorilla/mux v1.7.4
 	github.com/onsi/ginkgo v1.8.0 // indirect
